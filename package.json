@@ -1,5 +1,6 @@
 {
   "scripts": {
+    "start": "node src/index.js",
     "fmt": "prettier --write '**/*.{js,json,md}'"
   },
   "prettier": {
