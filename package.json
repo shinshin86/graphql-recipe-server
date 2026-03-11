@@ -11,7 +11,7 @@
     "bcryptjs": "^2.4.3",
     "graphql": "^14.6.0",
     "mysql2": "^3.9.8",
-    "sequelize": "^6.29.0",
+    "sequelize": "^6.37.8",
     "sequelize-cli": "^5.5.1"
   },
   "devDependencies": {
